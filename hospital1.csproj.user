@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="models\FormMamger.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="models\FormNurse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="models\FormPatient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="models\FromDoctors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="models\HomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="models\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
